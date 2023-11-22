@@ -1,0 +1,15 @@
+Banana 700 False
+Apple 400 False
+Bread 400 False
+Sugar 400 True
+Sugar 300 True
+Sugar 300 True
+Bread 250 False
+Milk 250 True
+Sugar 250 False
+Cherry 200 False
+Cherry 200 False
+Apple 150 False
+Sugar 150 True
+Apple 100 True
+Milk 100 False
